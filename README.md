@@ -3,6 +3,10 @@
 ![Syaka](https://giffiles.alphacoders.com/354/35451.gif)
 
 <img src="https://media1.tenor.com/m/4hxn0DVqDlQAAAAC/madoka-magica-sayaka-miki.gif" alt="Demo GIF" width="50">
+
+!HTML
+!CSS
+!NODEJS
 <!--
 **D4N-1/D4N-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
