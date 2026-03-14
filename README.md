@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://i.pinimg.com/736x/2b/ef/aa/2befaa534c42f7a75a717e4a3c519ec8.jpg
+![Syaka](https://i.pinimg.com/736x/2b/ef/aa/2befaa534c42f7a75a717e4a3c519ec8.jpg)
 <!--
 **D4N-1/D4N-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
