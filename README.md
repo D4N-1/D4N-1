@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="https://sambot.live/random" alt="Hello" controls="true">
+    <img src="https://sambot.live/random" alt="Hello" height="150px">
 </p>
