@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=¡Hola!+Bienvenido+a+mi+perfil;Full-Stack+%26+Backend+Developer" alt="Typing SVG" />
+  <h1>Hola</h1>
 
   <br><br>
 
@@ -14,7 +14,7 @@
 
 - Aun por saber
 
-<h3 align="center">Lenguajes y Herramientas</h3>
+<h3 align="center">Lenguajes</h3>
 
 <p align="center">
     <a href="https://www.typescriptlang.org">
@@ -46,13 +46,10 @@
 
 <p align="center">
     <a href="https://github.com/D4N-1">
-        <img height="165" src="https://github-stats-extended.vercel.app/api?username=D4N-1&rank_icon=github&custom_title=My%20Git%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight"/>
+        <img height="180em" src="https://github-stats-extended.vercel.app/api?username=D4N-1&rank_icon=github&custom_title=My%20Git%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight"/>
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/D4N-1">
-        <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=D4N-1&layout=donut-vertical&langs_count=8&theme=tokyonight">
+        <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=D4N-1&layout=donut-vertical&langs_count=8&theme=tokyonight">
     </a>
 </p>
 
