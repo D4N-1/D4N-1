@@ -46,10 +46,10 @@
 
 <p align="center">
     <a href="https://github.com/D4N-1">
-        <img height="180em" src="https://github-stats-extended.vercel.app/api?username=D4N-1&rank_icon=github&custom_title=My%20Git%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight"/>
+        <img height="400em" src="https://github-stats-extended.vercel.app/api?username=D4N-1&rank_icon=github&custom_title=My%20Git%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight"/>
     </a>
     <a href="https://github.com/D4N-1">
-        <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=D4N-1&layout=donut-vertical&langs_count=8&theme=tokyonight">
+        <img height="400em" src="https://github-stats-extended.vercel.app/api/top-langs?username=D4N-1&layout=donut-vertical&langs_count=8&theme=tokyonight">
     </a>
 </p>
 
