@@ -4,7 +4,7 @@
   <br><br>
 
   <a href="https://github.com/D4N-1">
-      <img src="https://sambot.live/random" alt="Banner" height="280px" style="border-radius: 10px;">
+      <img src="https://sambot.live/random" alt="Banner" height="350px" style="border-radius: 10px;">
   </a>
 </div>
 
