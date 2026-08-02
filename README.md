@@ -3,7 +3,7 @@
 
   <br><br>
 
-  <a href="https://github.com/D4N-1">
+  <a href="https://sambot.live">
       <img src="https://sambot.live/random" alt="Banner" height="350px" style="border-radius: 10px;">
   </a>
 </div>
