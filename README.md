@@ -3,10 +3,10 @@
 
   <br><br>
 
-  <a href="https://github.com/D4N-1">
+  <a href="https://sambot.live">
       <img src="https://sambot.live/random"
       onerror="this.onerror=null; this.src='/hello.gif';"
-      alt="Banner" height="280px" style="border-radius: 10px;">
+      alt="Banner" height="350px" style="border-radius: 10px;">
   </a>
 </div>
 
