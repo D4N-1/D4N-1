@@ -5,7 +5,7 @@
 
   <a href="https://sambot.live">
       <img src="https://sambot.live/random"
-      onerror="this.onerror=null; this.src='/hello.gif';"
+      onerror="this.onerror=null; this.src='./hello.gif';"
       alt="Banner" height="350px" style="border-radius: 10px;">
   </a>
 </div>
