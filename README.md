@@ -21,7 +21,7 @@
 <br>
 
 
-<p align="center">
+<div align="center">
     <h3>Lenguajes - Lenguages</h3>
     <p>
         <a href="https://www.typescriptlang.org">
@@ -92,9 +92,9 @@
         </a>
     </p>
     <br>
-    <h3>Herramientas
+    <h3>Herramientas</h3>
 
-</p>
+</div>
 
 <br>
 ---
