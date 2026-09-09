@@ -18,9 +18,11 @@
 
 - Aun por saber
 
-<a align="center" href="https://discord.com/users/753322903507828796">
-    <img src="https://lanyard.cnrad.dev/api/753322903507828796?theme=dark&borderRadius=15px&bg=16171F&showDisplayName=true" alt="Discord" style="display:block;margin-left:auto;margin-rigth:auto">
-</a>
+<div align="center">
+    <a align="center" href="https://discord.com/users/753322903507828796">
+        <img src="https://lanyard.cnrad.dev/api/753322903507828796?theme=dark&borderRadius=15px&bg=16171F&showDisplayName=true" alt="Discord">
+    </a>
+</div>
 
 
 <br>
