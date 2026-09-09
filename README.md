@@ -18,6 +18,11 @@
 
 - Aun por saber
 
+<a align="center" href="https://discord.com/users/753322903507828796">
+    <img src="https://lanyard.cnrad.dev/api/753322903507828796?theme=dark&borderRadius=15px&bg=16171F&showDisplayName=true" alt="Discord">
+</a>
+
+
 <br>
 
 
@@ -60,7 +65,7 @@
         </a>
     </p>
     <br>
-    <h3>Frameworks</h3>
+    <h3>Frameworks / Packages - Librerias</h3>
     <p>
         <a href="https://angular.dev">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="45" height="45"/>
@@ -77,10 +82,6 @@
             <a href="https://expressjs.com">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
         </a>
-    </p>
-    <br>
-    <h3>Librerias - Libraries</h3>
-    <p>
         <a href="https://react.dev">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" heigth="45"/>
         </a>
@@ -97,7 +98,9 @@
 </div>
 
 <br>
+
 ---
+
 <br>
 
 <h3 align="center">📊 Estadísticas de GitHub - Github´s stats</h3>
