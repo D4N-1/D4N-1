@@ -7,7 +7,7 @@
   <a href="https://sambot.live">
       <img src="https://sambot.live/random"
       onerror="this.onerror=null; this.src='./hello.gif';"
-      alt="Banner" height="350px">
+      alt="Banner" height="350px" style="border-radius: 15px">
   </a>
 
 </div>
@@ -19,7 +19,7 @@
 - Aun por saber
 
 <a align="center" href="https://discord.com/users/753322903507828796">
-    <img src="https://lanyard.cnrad.dev/api/753322903507828796?theme=dark&borderRadius=15px&bg=16171F&showDisplayName=true" alt="Discord">
+    <img src="https://lanyard.cnrad.dev/api/753322903507828796?theme=dark&borderRadius=15px&bg=16171F&showDisplayName=true" alt="Discord" style="display:block;margin-left:auto;margin-rigth:auto">
 </a>
 
 
